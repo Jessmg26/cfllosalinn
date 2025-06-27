@@ -203,6 +203,10 @@ section h2 {
   text-align: center;
 }
 
+.join-title {
+  color: #fcd701;
+}
+
 .join-us .cta-button {
   margin-top: 1rem;
 }
